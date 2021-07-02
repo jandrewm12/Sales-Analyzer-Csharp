@@ -1,0 +1,15 @@
+/Users/jacobmcintosh/Mizzou/Fall2020/INFOTC 2040/Modules/Module 15/SalesData/bin/Debug/net5.0/SalesData.deps.json
+/Users/jacobmcintosh/Mizzou/Fall2020/INFOTC 2040/Modules/Module 15/SalesData/bin/Debug/net5.0/SalesData.runtimeconfig.json
+/Users/jacobmcintosh/Mizzou/Fall2020/INFOTC 2040/Modules/Module 15/SalesData/bin/Debug/net5.0/SalesData.runtimeconfig.dev.json
+/Users/jacobmcintosh/Mizzou/Fall2020/INFOTC 2040/Modules/Module 15/SalesData/bin/Debug/net5.0/SalesData.dll
+/Users/jacobmcintosh/Mizzou/Fall2020/INFOTC 2040/Modules/Module 15/SalesData/bin/Debug/net5.0/ref/SalesData.dll
+/Users/jacobmcintosh/Mizzou/Fall2020/INFOTC 2040/Modules/Module 15/SalesData/bin/Debug/net5.0/SalesData.pdb
+/Users/jacobmcintosh/Mizzou/Fall2020/INFOTC 2040/Modules/Module 15/SalesData/obj/Debug/net5.0/SalesData.csprojAssemblyReference.cache
+/Users/jacobmcintosh/Mizzou/Fall2020/INFOTC 2040/Modules/Module 15/SalesData/obj/Debug/net5.0/SalesData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobmcintosh/Mizzou/Fall2020/INFOTC 2040/Modules/Module 15/SalesData/obj/Debug/net5.0/SalesData.AssemblyInfoInputs.cache
+/Users/jacobmcintosh/Mizzou/Fall2020/INFOTC 2040/Modules/Module 15/SalesData/obj/Debug/net5.0/SalesData.AssemblyInfo.cs
+/Users/jacobmcintosh/Mizzou/Fall2020/INFOTC 2040/Modules/Module 15/SalesData/obj/Debug/net5.0/SalesData.csproj.CoreCompileInputs.cache
+/Users/jacobmcintosh/Mizzou/Fall2020/INFOTC 2040/Modules/Module 15/SalesData/obj/Debug/net5.0/SalesData.dll
+/Users/jacobmcintosh/Mizzou/Fall2020/INFOTC 2040/Modules/Module 15/SalesData/obj/Debug/net5.0/ref/SalesData.dll
+/Users/jacobmcintosh/Mizzou/Fall2020/INFOTC 2040/Modules/Module 15/SalesData/obj/Debug/net5.0/SalesData.pdb
+/Users/jacobmcintosh/Mizzou/Fall2020/INFOTC 2040/Modules/Module 15/SalesData/obj/Debug/net5.0/SalesData.genruntimeconfig.cache

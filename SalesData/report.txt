@@ -1,0 +1,85 @@
+* * * Sales Report * * *
+
+Items sold to customers in Australia: 
+{ StockCode = 22941, Description = CHRISTMAS LIGHTS 10 REINDEER }
+{ StockCode = 21622, Description = VINTAGE UNION JACK CUSHION COVER }
+{ StockCode = 21791, Description = VINTAGE HEADS AND TAILS CARD GAME  }
+{ StockCode = 35004C, Description = SET OF 3 COLOURED  FLYING DUCKS }
+{ StockCode = 35004G, Description = SET OF 3 GOLD FLYING DUCKS }
+{ StockCode = 85014B, Description = RED RETROSPOT UMBRELLA }
+{ StockCode = 85014A, Description = BLACK/BLUE POLKADOT UMBRELLA }
+{ StockCode = 22193, Description = RED DINER WALL CLOCK }
+{ StockCode = 22726, Description = ALARM CLOCK BAKELIKE GREEN }
+{ StockCode = 22727, Description = ALARM CLOCK BAKELIKE RED  }
+{ StockCode = 22192, Description = BLUE DINER WALL CLOCK }
+{ StockCode = 22191, Description = IVORY DINER WALL CLOCK }
+{ StockCode = 22195, Description = LARGE HEART MEASURING SPOONS }
+{ StockCode = 22196, Description = SMALL HEART MEASURING SPOONS }
+{ StockCode = 22567, Description = 20 DOLLY PEGS RETROSPOT }
+{ StockCode = 22915, Description = ASSORTED BOTTLE TOP  MAGNETS  }
+{ StockCode = 22926, Description = IVORY GIANT GARDEN THERMOMETER }
+{ StockCode = 22953, Description = BIRTHDAY PARTY CORDON BARRIER TAPE }
+{ StockCode = 21906, Description = PHARMACIE FIRST AID TIN }
+{ StockCode = 22495, Description = SET OF 2 ROUND TINS CAMEMBERT  }
+{ StockCode = 22555, Description = PLASTERS IN TIN STRONGMAN }
+{ StockCode = 22557, Description = PLASTERS IN TIN VINTAGE PAISLEY  }
+{ StockCode = 22333, Description = RETROSPOT PARTY BAG + STICKER SET }
+{ StockCode = 22094, Description = RED RETROSPOT TISSUE BOX }
+{ StockCode = 21217, Description = RED RETROSPOT ROUND CAKE TINS }
+{ StockCode = 48138, Description = DOORMAT UNION FLAG }
+{ StockCode = 79067, Description = CORONA MEXICAN TRAY }
+{ StockCode = 20725, Description = LUNCH BAG RED RETROSPOT }
+{ StockCode = 85099B, Description = JUMBO BAG RED RETROSPOT }
+{ StockCode = 22728, Description = ALARM CLOCK BAKELIKE PINK }
+{ StockCode = 22196, Description = SMALL HEART MEASURING SPOONS }
+{ StockCode = 22195, Description = LARGE HEART MEASURING SPOONS }
+{ StockCode = 22219, Description = LOVEBIRD HANGING DECORATION WHITE  }
+{ StockCode = 20685, Description = DOORMAT RED RETROSPOT }
+{ StockCode = 48138, Description = DOORMAT UNION FLAG }
+
+There were 2025 individual sales.
+
+The sales total for Invoice No. 536365 is 139.12.
+
+United Kingdom total sales: $676742.62
+France total sales: $9575.36
+Australia total sales: $1005.1
+Netherlands total sales: $8784.48
+Germany total sales: $14562.84
+Norway total sales: $3787.12
+EIRE total sales: $9029.95
+Switzerland total sales: $1304.92
+Spain total sales: $1843.73
+Poland total sales: $248.16
+Portugal total sales: $2380.12
+Italy total sales: $794.5
+Belgium total sales: $1809.91
+Lithuania total sales: $1661.06
+Japan total sales: $7705.07
+Iceland total sales: $711.79
+Channel Islands total sales: $363.53
+Denmark total sales: $1281.5
+Cyprus total sales: $1590.82
+Sweden total sales: $2646.3
+Austria total sales: $257.04
+Israel total sales: $-227.44
+Finland total sales: $892.8
+Bahrain total sales: $205.74
+
+CustomerID: 18102. Amount spent: $27834.61
+
+Customer 15311 spent $2609.21
+
+958 units of 'HAND WARMER UNION JACK' were sold
+
+Total value of 'HAND WARMER UNION JACK': $1946.56
+
+Product with highest price: Stock Code: AMAZONFEE, Description: AMAZON FEE
+
+Total sales in dataset: $748957.02
+
+Highest Invoice: 539750, Total: $18745.86
+
+Product with most units sold: WORLD WAR 2 GLIDERS ASSTD DESIGNS, 5195 units.
+
+* * * END OF REPORT * * *
